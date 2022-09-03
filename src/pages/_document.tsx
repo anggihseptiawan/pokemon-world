@@ -15,11 +15,11 @@ export default function Document() {
 
         <link rel="apple-touch-icon" href="/favicons/apple-icon.png" />
         <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png" />
+                 <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+             <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png" />
+                      <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png" />
 
         <meta
           name="google-site-verification"

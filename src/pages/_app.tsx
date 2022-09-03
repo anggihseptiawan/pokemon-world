@@ -16,7 +16,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <QueryClientProvider client={queryClient}>
       <Hydrate state={pageProps.dehydratedState}>
-        <DefaultSeo />
+                    <DefaultSeo />
         <Layout>
           <MyPokemonsProvider>
             <Component {...pageProps} />
